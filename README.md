@@ -1,0 +1,1 @@
+This repository contains the SQL scripts and results for the data analysis of pizza sales. The analysis aims to derive insights and provide a comprehensive understanding of the sales patterns, customer preferences, and other key metrics.Please do check README file for the entire content.
